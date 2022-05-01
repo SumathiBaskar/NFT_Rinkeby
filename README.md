@@ -21,3 +21,5 @@ Create a .env file and add the test net app URL and private key
 Change the <<Network>> section to reflect the test net environment variables in 'Hardhat.config.js' file
 
 Open another terminal and Run npx hardhat run scripts/deploy.js --network <<Network name>>
+
+  
